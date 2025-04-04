@@ -1,0 +1,7 @@
+proxy-groups:
+
+  - name: "链香港到VMiss"
+    type: relay
+    proxies:
+      - 香港-自动
+      - 自建-vmiss
